@@ -1,2 +1,2 @@
 # Task-12
-CMS Project/Blogging syste,
+CMS Project/Blogging system,
